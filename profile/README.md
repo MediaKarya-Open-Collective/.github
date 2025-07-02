@@ -21,7 +21,6 @@ Kami membangun solusi digital terbuka untuk mendukung kreator, pelajar, dan komu
 
 | 🛠️ Nama Proyek        | 📄 Deskripsi Singkat                                                                   | 🔗 Link |
 |------------------------|----------------------------------------------------------------------------------------|--------|
-| 🎥 Streamflow          | Server video open-source ringan untuk streaming dan penyimpanan konten mandiri        | [GitHub](https://github.com/MediaKarya-Collective/streamflow) |
 | 📚 EduMedia Toolkit    | Kumpulan template, grafik, dan alat bantu untuk membuat konten edukatif visual         | Coming soon |
 | 🌍 NusantaraWeb        | Website builder visual untuk UMKM, pelajar, dan komunitas lokal                        | Coming soon |
 | ✏️ TemplateKarya       | Koleksi template desain grafis siap pakai (CV, presentasi, IG post, dsb) berbasis FOSS | Coming soon |
