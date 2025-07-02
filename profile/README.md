@@ -22,7 +22,7 @@ MediaKarya Open Collective adalah organisasi terbuka yang berfokus pada pengemba
 - 🎮 Worldbox Mods & Tools: Sumber daya komunitas untuk modder
 - 🌐 NusantaraWeb: Website generator visual untuk pelajar & UMKM
 
-Lihat semua proyek kami di: https://github.com/MediaKarya-Collective
+Lihat semua proyek kami di: https://github.com/MediaKarya-Open-Collective
 
 ---
 
@@ -43,7 +43,7 @@ Kami menjalankan proyek-proyek kami secara mandiri dan terbuka. Dukungan Anda me
 - Kompensasi untuk kontributor dari komunitas
 - Program pelatihan dan pengembangan komunitas
 
-👉 Sponsor kami di: [https://github.com/sponsors/MediaKarya-Collective](https://github.com/MediaKarya-Open-Collective)
+👉 Sponsor kami di: [https://github.com/sponsors/MediaKarya-Open-Collective](https://github.com/MediaKarya-Open-Collective)
 
 ---
 
