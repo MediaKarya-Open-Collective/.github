@@ -15,15 +15,19 @@ MediaKarya Open Collective adalah organisasi terbuka yang berfokus pada pengemba
 
 ---
 
-## 💼 Proyek Unggulan
+## 🚀 Proyek Unggulan
 
-- 🎥 Streamflow: Open-source video server untuk kreator
-- 📚 EduMedia Tools: Toolkit pembelajaran multimedia gratis
-- 🎮 Worldbox Mods & Tools: Sumber daya komunitas untuk modder
-- 🌐 NusantaraWeb: Website generator visual untuk pelajar & UMKM
+Kami membangun solusi digital terbuka untuk mendukung kreator, pelajar, dan komunitas lokal agar dapat berkembang secara kreatif dan mandiri.
 
-Lihat semua proyek kami di: https://github.com/MediaKarya-Open-Collective
+| 🛠️ Nama Proyek        | 📄 Deskripsi Singkat                                                                   | 🔗 Link |
+|------------------------|----------------------------------------------------------------------------------------|--------|
+| 🎥 Streamflow          | Server video open-source ringan untuk streaming dan penyimpanan konten mandiri        | [GitHub](https://github.com/MediaKarya-Collective/streamflow) |
+| 📚 EduMedia Toolkit    | Kumpulan template, grafik, dan alat bantu untuk membuat konten edukatif visual         | Coming soon |
+| 🌍 NusantaraWeb        | Website builder visual untuk UMKM, pelajar, dan komunitas lokal                        | Coming soon |
+| ✏️ TemplateKarya       | Koleksi template desain grafis siap pakai (CV, presentasi, IG post, dsb) berbasis FOSS | Coming soon |
+| 🧠 KelasKarya           | Kursus & panduan open-source seputar desain, video editing, dan konten digital         | Coming soon |
 
+Kami selalu membuka peluang kontribusi dan kolaborasi terbuka. Ingin bergabung? Hubungi kami!
 ---
 
 ## 🧑‍💻 Siapa Kami
