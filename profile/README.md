@@ -52,7 +52,7 @@ Kami menjalankan proyek-proyek kami secara mandiri dan terbuka. Dukungan Anda me
 - 🌐 Website: [mediakarya.id](https://mediakarya.id) (coming soon)
 - 📧 Email: mediakarya.collective@gmail.com
 - 📣 Telegram: https://t.me/mediakarya_collective
-- 🐦 Twitter/X: @mediakaryaID (opsional)
+- 🐦 Twitter/X: @mediakaryaID
 
 ---
 
