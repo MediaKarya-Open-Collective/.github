@@ -43,7 +43,7 @@ Kami menjalankan proyek-proyek kami secara mandiri dan terbuka. Dukungan Anda me
 - Kompensasi untuk kontributor dari komunitas
 - Program pelatihan dan pengembangan komunitas
 
-👉 Sponsor kami di: https://github.com/sponsors/MediaKarya-Collective
+👉 Sponsor kami di: [https://github.com/sponsors/MediaKarya-Collective](https://github.com/MediaKarya-Open-Collective)
 
 ---
 
